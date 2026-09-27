@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="Video placeholder poster">
-  <rect width="800" height="450" fill="#111731"/>
-  <rect width="800" height="450" fill="#0f1424" opacity="0.4"/>
-  <circle cx="400" cy="225" r="70" fill="#e8b923" opacity="0.15"/>
-  <circle cx="400" cy="225" r="52" fill="#e8b923"/>
-  <path d="M382 200l46 25-46 25z" fill="#0f1424"/>
+  <rect width="800" height="450" fill="#210d1c"/>
+  <rect width="800" height="450" fill="#3a1230" opacity="0.35"/>
+  <circle cx="400" cy="225" r="70" fill="#f06fa8" opacity="0.18"/>
+  <circle cx="400" cy="225" r="52" fill="#d94f8a"/>
+  <path d="M382 200l46 25-46 25z" fill="#fff8fb"/>
 </svg>
